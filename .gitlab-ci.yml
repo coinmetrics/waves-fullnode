@@ -10,3 +10,5 @@ docker_image:
   - shared
   - linux
   - docker
+  - docker
+  - coinmetrics-build-runner
